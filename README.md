@@ -1,3 +1,5 @@
+![hammer](./art/hammer.png)
+
 GWSHammer
 ==========
 
